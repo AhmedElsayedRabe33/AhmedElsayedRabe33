@@ -18,4 +18,4 @@ C++ · Python · Java · SQL Server · REST APIs · MongoDB · Express.js · Rea
 
 ### LeetCode Stats
  
-![LeetCode Stats](https://leetcard.jacoblin.cool/Ahmed__Rabee3?theme=dark&font=Baloo%202
+![LeetCode Stats](https://leetcard.jacoblin.cool/Ahmed__Rabee3?theme=dark&font=Baloo%202)

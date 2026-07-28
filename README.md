@@ -15,3 +15,7 @@ C++ · Python · Java · SQL Server · REST APIs · MongoDB · Express.js · Rea
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-rabea-788a85267/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-badge&logo=gmail&logoColor=white)](mailto:ahmedelsayed101111@gmail.com)
+
+### LeetCode Stats
+ 
+![LeetCode Stats](https://leetcard.jacoblin.cool/Ahmed__Rabee3?theme=dark&font=Baloo%202
